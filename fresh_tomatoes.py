@@ -56,6 +56,10 @@ main_page_head = '''
             top: 0;
             background-color: white;
         }
+        .container {
+			display: flex;
+			flex-wrap: wrap;
+		}
     </style>
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
