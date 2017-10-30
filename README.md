@@ -34,11 +34,7 @@ list of movies and generate an HTML file including this content, producing a web
  
 - Ensure `fresh_tomatoes.py` is in the **same directory** as your `project_media.py` and
  `project_entertainment_centre.py` files
- 
-- In `fresh_tomatoes.py`, the `open_movies_page()` and `create_movie_tiles_content()`
- functions need the *variable names changing* to match the names in `project_media.py`. 
- In this case, `movie.trailer_youtube_url` was changed to `movie.youtube_trailer_url` to match 
- the *instance variable* in class `Movie()`
+
 
 
 
