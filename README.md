@@ -40,7 +40,7 @@ list of movies and generate an HTML file including this content, producing a web
 The number of movies displayed on each row was not equal. 
 The display should have shown three movies on each row and should have been uniform.
 
-- To fix this issue, I added the *flexbox model* (flexible box) solution as follows:
+- To fix this issue, I added the **flexbox model** (flexible box) solution as follows:
 
 ` .container {
 	display: flex;
@@ -52,7 +52,7 @@ set to `flex` so is rendered as a block. The Flexbox model doesn't use floats li
 
 - The `flex-wrap` property is set to `wrap` which ensures the flexible items will wrap if necessary.
 
-- Another way to have solved this problem could have been using a *clearfix* solution; another way to clear floats.
+- Another way to have solved this problem could have been using a **clearfix** solution; another way to clear floats.
 
 
 
